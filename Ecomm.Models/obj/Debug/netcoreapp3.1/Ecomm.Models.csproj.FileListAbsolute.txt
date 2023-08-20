@@ -1,0 +1,10 @@
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\bin\Debug\netcoreapp3.1\Ecomm.Models.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\bin\Debug\netcoreapp3.1\Ecomm.Models.dll
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\bin\Debug\netcoreapp3.1\Ecomm.Models.pdb
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.dll
+E:\zakizadeh pc\edu\c# cources 2023\Saga Choreography\Ecomm.Models\obj\Debug\netcoreapp3.1\Ecomm.Models.pdb
