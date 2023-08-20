@@ -13,6 +13,6 @@ if the Inventory service is successful it will just conclude the transaction.
 ![saga5](https://github.com/zakizadeh/Saga_Choreography/assets/11499371/c1112f6f-4aa3-4c1c-a609-a0fde5b779d3)
 
 
-you should run Ecomm Service and OrderService and call Create method in OrderController in OrderService project by Postman.
+you should run Ecomm Service and OrderService and call Create method of OrderController in OrderService project by Postman.
 
 ![saga7](https://github.com/zakizadeh/Saga_Choreography/assets/11499371/6bc8b117-6598-425b-88a8-06150f1e11a7)
